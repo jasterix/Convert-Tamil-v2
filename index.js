@@ -80,9 +80,10 @@ testIt("2aa", undefined)
 /*
 Edge cases:
 - no multiplier
-- redo broader flow- 
+- redo broader flow: 
   - if number, 
   - if letter: 
       letter in alphabet
       letter not in alphabet (wrong order, duplicate letter)
+- should be reccursive?
   */
